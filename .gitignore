@@ -1,0 +1,21 @@
+# Filer och mappar för Visual Studio och andra utvecklingsmiljöer
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Byggfiler och binära filer
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.db
+
+# Paket och beroenden
+*.nuget
+packages/
+*.nupkg
