@@ -1,0 +1,78 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Mysteriet på öland",
+      "genre": "Deckare",
+      "author": "Karin Johansson",
+      "publishyear": 2019,
+      "review": 4.2,
+      "isbn": 12345
+    },
+    {
+      "id": 2,
+      "title": "Framtidens AI",
+      "genre": "Facklitteratur",
+      "author": "John Smith",
+      "publishyear": 2022,
+      "review": 4.5,
+      "isbn": 67890
+    },
+    {
+      "id": 3,
+      "title": "L'amour Eternel",
+      "genre": "Romantik",
+      "author": "Marie Dubois",
+      "publishyear": 2018,
+      "review": 3.9,
+      "isbn": 11223
+    },
+    {
+      "id": 4,
+      "title": "El Oscuro Misterio",
+      "genre": "Skr�ck",
+      "author": "H�ctor Alvarez",
+      "publishyear": 2021,
+      "review": 4.0,
+      "isbn": 33445
+    },
+    {
+      "id": 5,
+      "title": "Exploring the Cosmos",
+      "genre": "Vetenskap",
+      "author": "Rajesh Patel",
+      "publishyear": 2020,
+      "review": 4.3,
+      "isbn": 55667
+    }
+  ],
+
+
+  "authors": [
+    {
+      "id": 1,
+      "name": "Karin Johansson",
+      "country": "Sverige"
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "name": "Marie Dubois",
+      "country": "Frankrike"
+    },
+    {
+      "id": 4,
+      "name": "Hector Alvarez",
+      "country": "Spanien"
+    },
+    {
+      "id": 5,
+      "name": "Rajesh Patel",
+      "country": "Indien"
+    }
+  ]
+}
